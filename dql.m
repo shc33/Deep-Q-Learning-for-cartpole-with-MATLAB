@@ -72,7 +72,7 @@ averageSqGrad = []; % for ADAM
 scores_array = [];
 scores_array_max_length = 100;
 max_step = 1000;
-num_episodes = 10000;
+num_episodes = 1000;
 print_interval = 10;
 total_step = 0;
 
