@@ -1,4 +1,4 @@
-% @author: SH Cho
+% @author: Soohyun Cho
 clear all; close all force; format compact
 
 pe = pyenv();
